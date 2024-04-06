@@ -1,0 +1,35 @@
+commit 311c851eeb59975fb7f463a3e06151f90fbac044
+Author: dinmasovic <din_masovic@hotmail.com>
+Date:   Sat Apr 6 03:14:53 2024 +0200
+
+     the conflict is fixed by printing both methods
+
+commit 0992d3759ee964b589c9d4e25c8b48ef895f2e11
+Author: dinmasovic <din_masovic@hotmail.com>
+Date:   Sat Apr 6 03:10:05 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 5188465b7b5782495a91a085a59cfaf808fc701b
+Author: dinmasovic <din_masovic@hotmail.com>
+Date:   Sat Apr 6 03:12:51 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 87712f358a35e9b6f6874300a9fbd0caba119776
+Author: dinmasovic <din_masovic@hotmail.com>
+Date:   Sat Apr 6 03:07:32 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit ee7d2683d48971885c1980951c7f4f7ff30d90e5
+Author: dinmasovic <din_masovic@hotmail.com>
+Date:   Sat Apr 6 03:04:51 2024 +0200
+
+    Add starter code
+
+commit 1475dd6bf9e9aba73f7de24105b73f14c2ad52a2
+Author: dinmasovic <din_masovic@hotmail.com>
+Date:   Sat Apr 6 03:03:12 2024 +0200
+
+    Initial commit
